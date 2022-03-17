@@ -1,0 +1,17 @@
+footer{
+    background: #aaa;color:white;    
+    position: fixed;
+ left:0px;
+ bottom:0px;
+ height:30px;
+ width:100%;
+ background:#999;
+  z-index: 100;
+  }
+  .futer{
+    text-align: center; 
+  }
+  .futer a{
+    color: black;
+       
+  }
